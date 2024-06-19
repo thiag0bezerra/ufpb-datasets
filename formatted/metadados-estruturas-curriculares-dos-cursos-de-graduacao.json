@@ -1,0 +1,24 @@
+[
+  {
+    "Categoria": "Ensino",
+    "Subcategoria": "T�cnico",
+    "Conjunto de Dados": "Estruturas Curriculares",
+    "T�tulo": "Estruturas Curriculares dos Cursos de Gradua��o",
+    "Descri��o": "Conjunto de dados que descreve as estruturas curriculares dos cursos de Gradua��o com dados de: identifica��o; cr�ditos; carga hor�ria; grau acad�mico; entre outros.",
+    "Catalogo de Origem - URL de origem": "https://dadosabertos.ufpb.br/dataset/estruturas-curriculares-dos-cursos-de-graduacao/resource/ecd426d3-ac64-448d-a80f-7e4695fc3482",
+    "Org�o respons�vel": "Universidade Federal da Para�ba (UFPB)",
+    "Categorias do VCGE": "Educa��o",
+    "Recursos": "Estruturas Curriculares dos Cursos de Gradua��o (CSV); Dicion�rio de Vari�veis (PDF)",
+    "Etiqueta - Palavras Chaves": "estrutura curricular; gradua��o; cursos t�cnicos; UFPB",
+    "Autoria": "Pr�-Reitoria de Gradua��o da Universidade Federal da Para�ba (PRG - UFPB)",
+    "Documenta��o": "-",
+    "Cobertura Geogr�fica": "-",
+    "Cobertura Temporal": "-",
+    "Granularidade Geogr�fica": "-",
+    "Granularidade Temporal": "-",
+    "Frequ�ncia de Atualiza��o": "Anual",
+    "Refer�ncia": "-",
+    "Metodologia": "-",
+    "Vocabul�rio / Ontologia": "-"
+  }
+]

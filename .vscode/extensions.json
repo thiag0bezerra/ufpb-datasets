@@ -1,0 +1,6 @@
+{
+    // Recommended extensions for Deno development
+    "recommendations": [
+        "denoland.vscode-deno",
+    ]
+}
